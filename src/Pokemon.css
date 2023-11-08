@@ -1,0 +1,23 @@
+.generator {
+    border: 1px solid red;
+}
+.fetch-button {
+    border: none;
+    background-color: rgba(220, 252, 147, 0.729);
+    padding: 10px;
+    border-radius: 20px;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    color: #ffffff;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 1px 3px 10px rgb(150, 44, 243);
+}
+.fetch-button:hover {
+    box-shadow: 1px 1px 10px rgba(255, 174, 0, 0.6); 
+   
+}
+*{
+    margin: 0;
+}
+.container {}

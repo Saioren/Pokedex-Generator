@@ -1,0 +1,15 @@
+.pokemon-details {
+    margin: 20px;
+    background-color: rgba(12, 9, 9, 0.2);
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px black;
+}
+.type-electric {
+    color: yellow;
+  }
+  
+  .type-grass {
+    color: green;
+  }
+  
